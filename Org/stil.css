@@ -1,0 +1,109 @@
+*{
+		margin:0px;
+		padding:0px;
+}
+
+body{
+	background-image:url(sace.jpg);
+}
+
+#omot{
+	background-color:#ccc;	
+	width:1000px;
+	margin:0px auto;
+}
+
+#zaglavlje{
+	width:1000px;
+	height:250px;
+	background-color:#f00;
+}
+
+#logo{
+	background-color:#0f0;
+	width:219px;
+	height:250px;
+	float:left;
+	background:url('Logo.png');
+	background-repeat:no-repeat;
+}
+
+#maliOmot{
+	width:781px;
+	float:right;
+}
+
+#omotGore{
+	height:40px;
+	width:781px;
+	padding-left:5px;
+}
+
+a{
+	text-decoration:none;
+}
+
+input{
+	width:150px;
+	height:25px;
+	
+}
+
+#navMeni{
+	background-color:#333;
+	height:210px;
+	width:781px;
+}
+
+#navMeni li{
+	list-style-type:none;
+	display:inline-block;
+	text-align:center;
+	height:100px;
+	width:190px;
+	padding-top:44px;
+	font-size:30px;
+	font-family:'Old English';
+}
+
+#navMeni ul a{
+	text-decoration:none;
+	
+}
+
+#sadrzajOmot{
+	width:1000px;
+	height:600px;
+}
+
+#levaKolona{
+	width:350px;
+	height:600px;
+	float:left;
+}
+
+#levaGore{
+	background-color:#f00;
+	width:350px;
+	height:300px;
+}
+
+#levaDole{
+	width:350px;
+	height:300px;
+	background-color:#0f0;
+}
+
+#desnaKolona{
+	background-color:yellow;
+	width:650px;
+	float:right;
+	height:600px;
+	
+}
+
+#futer{
+	background-color:lightgray;
+	width:1000px;
+	height:250px;
+}

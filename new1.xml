@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+	<item>
+		<title>Projekti</title>
+		<description></description>
+			<link>
+				http://doseat.github.io/proizvodi.html
+			</link>
+	</item>
+	<item>
+		<title>Kontakt</title>
+		<description></description>
+			<link>
+				http://doseat.github.io/kontakt.html
+			</link>
+	</item>
+</channel>
+</rss>

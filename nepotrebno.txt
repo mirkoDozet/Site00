@@ -1,0 +1,36 @@
+#levaKolona{
+	width:350px;
+	height:600px;
+	float:left;
+}
+
+#levaGore{
+	background-color:#f00;
+	width:350px;
+	height:300px;
+}
+
+#levaDole{
+	width:350px;
+	height:300px;
+	background-color:#0f0;
+}
+
+#desnaKolona{
+	background-color:#ffffb3; /* yellow */
+	width:650px;
+	float:right;
+	height:600px;
+	
+}
+
+ class="zutaSlova beliOkvir prostorOko"
+
+cdff99
+
+
+border-bottom:1px;
+	border-top:0px;
+	border-left:0px;
+	border-right:0px;
+	border-style: dotted;

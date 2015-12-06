@@ -1,0 +1,14 @@
+Projects:
+
+Project No.1: Bloody Ronin (mobile game)
+
+- Bloody Ronin je infinite runner tip igre. Oldikuju ga specificni efekti i okolina zbivanja radnje kao i filozofija i poruka same igre. Art igre radjen je po ugledu na stripove Frank Milera. Igra propagira mir.
+
+
+Project No.2: Moto Quiz (mobile game)
+
+-Moto quiz je kviz iz svih oblasti moto sporta. U kvizu postoje teme: MotoGP, Formula 1, World Rally Championship, Nascar, DTM, SuperBike, Moto2, Moto3, Formula Renault itd. Poenta je da postoji generalna rang lista o generalnom poznavanju moto sporta, kao i da u svakoj od kategorija postoje posebne rang liste koje rangiraju igrace u samo toj kategoriji.
+
+Project No.3: Space Traveler (mobile game)
+
+-Space Traveler je igra refleksa. Ziroskopom telefona se kontrolise kretnja svemirskog broda kroz svemir, gde je manevrise brodom kako isti ne bi udario u letece objekte (asteroide, meteore, planete, satelite). Igra je 3D tipa. 

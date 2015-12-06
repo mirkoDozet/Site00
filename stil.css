@@ -1,0 +1,183 @@
+*{
+		margin:0px;
+		padding:0px;
+}
+
+body{
+	background-image:url("slike/sace.jpg");
+	background-attachment:fixed;
+	font-family:Helvetica, Arial, sans-serif;
+	font-weight:normal;
+}
+
+#omot{
+	width:1000px;
+	margin:0px auto;
+}
+
+#zaglavlje{
+	width:1000px;
+	height:250px;
+}
+
+#logo{
+ /* transparent */
+	width:219px;
+	height:250px;
+	float:left;
+	/*
+	background:url("Logo.png");
+	*/
+	background-image: url("slike/Logo.png");
+	background-repeat:no-repeat;
+	background-position: center center;
+	
+}
+
+#maliOmot{
+	width:781px;
+	float:right;
+	background-image:url('slike/Header.png');
+}
+
+#omotGore{
+	height:62px;
+	width:781px;
+	padding-left:5px;
+	margin-top:63px;
+}
+
+a{
+	text-decoration:none;
+}
+
+input{
+	width:150px;
+	height:25px;
+	
+}
+
+#navMeni{
+	height:62px;
+	width:781px;
+	margin-bottom:63px;
+}
+
+#navMeni li{
+	list-style-type:none;
+	display:inline-block;
+	text-align:center;
+	height:100px;
+	width:190px;
+	font-size:30px;
+	font-family:serif;
+}
+
+#navMeni ul a{
+	text-decoration:none;
+	color: #ffffff;
+}
+
+#sadrzajOmot{
+	width:1000px;
+	height:850px;
+}
+
+#futer{
+position: fixed;
+left: 50%;
+margin-left: -500px;
+	position:fixed;
+	bottom:0px;
+	background-color:817a7a;
+	width:1000px;
+	height:40px;
+	margin-bottom:0px;
+}
+
+p.nesto{padding-left:5px; padding-top:9px; }
+
+/* -- DODATO NOVO ------------------------------------- */
+a:link, a:visited, a:active {color: #ffffff;}
+a:hover{color:#de2727;}
+#navMeni ul li a:hover{color:#de2727;font-weight:bold;}
+
+.zutaSlova {
+	color:#ffff00!important;
+	/*cursor:cell;*/ /* text cell no-drop */
+}
+
+/*.beliOkvir {
+	border:2px solid #ffffff;
+}*/
+
+/*.prostorOko{
+		padding: 10px;
+}*/
+
+.TopMeni li{
+	list-style-type:none;
+	display:inline-block;
+	text-align:left;
+	vertical-align:middle;
+	padding:5px 15px 5px 0;
+	color: #ffffff;
+}
+
+.TopMeni li.loginTxt {
+	padding-right:0;
+}
+
+ .TopMeni li a {
+	margin-right: 5px;
+}
+
+.TopMeni li a img{
+	width: auto;
+	height:20px;
+} /*pocetna*/
+#klasePro{
+	width:1000px;
+	height:1057px;
+}
+.ronin{
+	height:332px;
+	width:1000px;
+	background-color:#fff;
+	margin-bottom:20px;
+	margin-top:1px;
+	background:url('slike/Project1.png');
+}
+.ronin img{padding-top:0px; float:right;}
+
+.motoKviz{
+	height:332px;
+	width:1000px;
+	background-color:#fff;
+	margin-bottom:20px;
+	background:url('slike/Project2.png');
+}
+.motoKviz img{float:left;}
+
+.space{
+	height:332px;
+	width:1000px;
+	background-color:#fff;	
+	margin-bottom:60px;
+	background:url('slike/Project3.png');
+}
+.space img{float:right;}
+
+#klaseKon{width:1000px; height:350px;}
+
+.podaci{width:490px; height:325px; float:left; color:#fff; padding-left:10px; padding-top:25px;}
+.mapa{width:500px; height:325px; float:right; padding-top:25px;}
+
+#sredina{width:1000px; height:870px;}
+
+#sredina img{height:280px; width:200px; float:right; padding-right:100px; padding-top:50px;}
+#sredina h2,p{padding-left:109px; color:#fff;}
+#sredina .klasa1{padding-top:50px;}
+.rss img{height:20px; width:auto; float:right; padding-right:5px; padding-top:9px;}
+#autor{height:263px; width:1000px; margin-top:50px; background-color:#000;}
+#autor img{height:263px; width:auto; }
